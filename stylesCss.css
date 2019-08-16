@@ -1,0 +1,31 @@
+body {
+	background: gray;
+	/*display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(4, 1fr);*/
+}
+
+.display1, .display2 {
+	background: #000;
+	border-radius: 5px;
+	color: white;
+	height: 50px;
+	margin: 50px;
+	padding: 5px;
+	width: 80px;
+}
+.display2 {background: #222;}
+#scoreBdT {
+	background: #000;
+	font-size: 1.4em;
+	width: auto;
+}
+/*.a{grid-column: 1/4; grid-row: 1/2;}
+.b1{grid-column: 1/2; grid-row: 2/3;}
+.b2{grid-column: 2/3; grid-row: 2/3;}
+.b3{grid-column: 3/4; grid-row: 2/3;}
+.c1{grid-column: 1/2; grid-row: 3/4;}
+.c2{grid-column: 3/4; grid-row: 3/4;}
+.d1{grid-column: 1/2; grid-row: 4/5;}
+.d2{grid-column: 3/4; grid-row: 4/5;}
+*/
